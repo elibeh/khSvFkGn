@@ -1,5 +1,5 @@
 {
-	"banner":[
+	"banner": [
 			{
 			 "id": 1,
 			 "image": "http://fdgdhgfh.com",
@@ -17,7 +17,7 @@
 			 "image": "http://fdgdhgfh.com",
 			 "link_type":2,
 			 "link_value":"0"
-			 },
+			 }
 		],
 	"products_list" : [
 		{
@@ -46,6 +46,6 @@
 			"status": 1,
 			"image": "http://fdgdhgfh.com",
 			"previous_price": 290000
-		},
+		}
 	]
 }

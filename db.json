@@ -17,7 +17,7 @@
 			 "image": "https://github.com/elibeh/khSvFkGn/blob/master/khordani-ashamidani.jpg",
 			 "link_type":2,
 			 "link_value":"0"
-			 },
+			 }
 		],
 	"products_list" : [
 		{
@@ -46,6 +46,6 @@
 			"status": 1,
 			"image": "http://fdgdhgfh.com",
 			"previous_price": 290000
-		},
+		}
 	]
 }

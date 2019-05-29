@@ -13,41 +13,40 @@
 			 "image": "http://s9.picofile.com/file/8361687642/khordani_ashamidani.jpg"
 			 }
 		],
-	"products_list" :[
-		{
-			"time_start": "",
-    			"time_stop": ""
-			 },
-	[
-		{
-			"id":"product1",
-			"title" : "ساعت زنانه",
-			"price" : 120000,
-			"discount": 50000,
-			"status": 1,
-			"image": "http://fdgdhgfh.com",
-			"previous_price": 120000
-		},
-		{
-			"id":"product2",
-			"title" : "کت مردانه",
-			"price" : 400000,
-			"discount": 50000,
-			"status": 0,
-			"image": "http://fdgdhgfh.com",
-			"previous_price": 350000
-		},
-		{
-			"id":"product3",
-			"title" : "کفش زنانه",
-			"price" : 300000,
-			"discount": 10000,
-			"status": 1,
-			"image": "http://fdgdhgfh.com",
-			"previous_price": 290000
-		}
-	]
-	],
+	"products_list" : {
+    "time_start": "",
+    "time_stop": ""
+  }
+,
+[
+  {
+    "id": "product1",
+    "title": "ساعت زنانه",
+    "price": 120000,
+    "discount": 50000,
+    "status": 1,
+    "image": "http://fdgdhgfh.com",
+    "previous_price": 120000
+  },
+  {
+    "id": "product2",
+    "title": "کت مردانه",
+    "price": 400000,
+    "discount": 50000,
+    "status": 1,
+    "image": "http://fdgdhgfh.com",
+    "previous_price": 350000
+  },
+  {
+    "id": "product3",
+    "title": "کفش زنانه",
+    "price": 300000,
+    "discount": 10000,
+    "status": 1,
+    "image": "http://fdgdhgfh.com",
+    "previous_price": 290000
+  }
+],
 	"cat_main_menu" : [
 		{
 			"id":"m1",

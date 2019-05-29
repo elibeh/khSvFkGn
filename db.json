@@ -46,7 +46,7 @@
 			"image": "http://fdgdhgfh.com",
 			"previous_price": 290000
 		}
-	],
+	]],
 	"cat_main_menu" : [
 		{
 			"id":"m1",
@@ -92,6 +92,6 @@
 			"id":"m11",
 			"name":"رستوران ها"
 		}
-	]
+	
 	]
 }

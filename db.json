@@ -1,27 +1,21 @@
 {
 	"banner":[
 			{
-			 "id": 1,
+			 "id": "banner1",
 			 "image": "http://s9.picofile.com/file/8361687600/banner_arayeshi.jpg",
-			 "link_type":2,
-			 "link_value":"0"
 			 },
 			 {
-			 "id": 2,
+			 "id": "banner2",
 			 "image": "http://s8.picofile.com/file/8361687634/bazi_sargarmi.jpg",
-			 "link_type":2,
-			 "link_value":"0"
 			 },
 			 {
-			 "id": 3,
+			 "id": "banner3",
 			 "image": "http://s9.picofile.com/file/8361687642/khordani_ashamidani.jpg",
-			 "link_type":2,
-			 "link_value":"0"
 			 }
 		],
 	"products_list" : [
 		{
-			"id":10,
+			"id":"product1",
 			"title" : "ساعت زنانه",
 			"price" : 120000,
 			"discount": 50000,
@@ -30,7 +24,7 @@
 			"previous_price": 120000
 		},
 		{
-			"id":9,
+			"id":"product2",
 			"title" : "کت مردانه",
 			"price" : 400000,
 			"discount": 50000,
@@ -39,7 +33,7 @@
 			"previous_price": 350000
 		},
 		{
-			"id":7,
+			"id":"product3",
 			"title" : "کفش زنانه",
 			"price" : 300000,
 			"discount": 10000,
@@ -50,60 +44,48 @@
 	],
 	"cat_main_menu" : [
 		{
-			"id":1,
+			"id":"m1",
 			"name":"ورزش و سفر",
-			"link_cat_value":"http://fdgdhgfh.com"
 		},
 		{
-			"id":2,
+			"id":"m2",
 			"name":"خانه و آشپزخانه",
-			"link_cat_value":"http://fdgdhgfh.com"
 		},
 		{
-			"id":3,
+			"id":"m3",
 			"name":"سوپر مارکت",
-			"link_cat_value":"http://fdgdhgfh.com"
 		},
 		{
-			"id":4,
+			"id":"m4",
 			"name":"آلات موسیقی",
-			"link_cat_value":"http://fdgdhgfh.com"
 		},
 		{
-			"id":5,
+			"id":"m5",
 			"name":"اسباب بازی، کودک",
-			"link_cat_value":"http://fdgdhgfh.com"
 		},
 		{
-			"id":6,
+			"id":"m6",
 			"name":"کالای دیجیتال",
-			"link_cat_value":"http://fdgdhgfh.com"
 		},
 		{
-			"id":7,
+			"id":"m7",
 			"name":"صنایع دستی",
-			"link_cat_value":"http://fdgdhgfh.com"
 		},
 		{
-			"id":8,
+			"id":"m8",
 			"name":"آرایشی، بهداشتی",
-			"link_cat_value":"http://fdgdhgfh.com"
 		},
 		{
-			"id":9,
+			"id":"m9",
 			"name":"مد و پوشاک",
-			"link_cat_value":"http://fdgdhgfh.com"
 		},
 		{
-			"id":10,
+			"id":"m10",
 			"name":"کتاب، لوازم تحریر",
-			"link_cat_value":"http://fdgdhgfh.com"
 		},
 		{
-			"id":11,
+			"id":"m11",
 			"name":"رستوران ها",
-			"link_cat_value":"http://fdgdhgfh.com"
 		}
-		
 	]
 }

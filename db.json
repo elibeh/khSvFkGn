@@ -13,85 +13,84 @@
 			 "image": "http://s9.picofile.com/file/8361687642/khordani_ashamidani.jpg"
 			 }
 		],
-	"products_list" : {
-    "time_start": "",
-    "time_stop": ""
-  }
-,
-[
-  {
-    "id": "product1",
-    "title": "ساعت زنانه",
-    "price": 120000,
-    "discount": 50000,
-    "status": 1,
-    "image": "http://fdgdhgfh.com",
-    "previous_price": 120000
-  },
-  {
-    "id": "product2",
-    "title": "کت مردانه",
-    "price": 400000,
-    "discount": 50000,
-    "status": 1,
-    "image": "http://fdgdhgfh.com",
-    "previous_price": 350000
-  },
-  {
-    "id": "product3",
-    "title": "کفش زنانه",
-    "price": 300000,
-    "discount": 10000,
-    "status": 1,
-    "image": "http://fdgdhgfh.com",
-    "previous_price": 290000
-  }
-],
+	"products_list" : [{
+    			"time_start": "",
+    			"time_stop": ""
+  		},
+		[
+  			{
+			    "id": "product1",
+			    "title": "ساعت زنانه",
+			    "price": 120000,
+			    "discount": 50000,
+			    "status": 1,
+			    "image": "http://fdgdhgfh.com",
+			    "previous_price": 120000
+  			},
+			  {
+			    "id": "product2",
+			    "title": "کت مردانه",
+			    "price": 400000,
+			    "discount": 50000,
+			    "status": 1,
+			    "image": "http://fdgdhgfh.com",
+			    "previous_price": 350000
+			  },
+			  {
+			    "id": "product3",
+			    "title": "کفش زنانه",
+			    "price": 300000,
+			    "discount": 10000,
+			    "status": 1,
+			    "image": "http://fdgdhgfh.com",
+			    "previous_price": 290000
+			  }
+		],
 	"cat_main_menu" : [
-		{
-			"id":"m1",
-			"name":"ورزش و سفر"
-		},
-		{
-			"id":"m2",
-			"name":"خانه و آشپزخانه"
-		},
-		{
-			"id":"m3",
-			"name":"سوپر مارکت"
-		},
-		{
-			"id":"m4",
-			"name":"آلات موسیقی"
-		},
-		{
-			"id":"m5",
-			"name":"اسباب بازی، کودک"
-		},
-		{
-			"id":"m6",
-			"name":"کالای دیجیتال"
-		},
-		{
-			"id":"m7",
-			"name":"صنایع دستی"
-		},
-		{
-			"id":"m8",
-			"name":"آرایشی، بهداشتی"
-		},
-		{
-			"id":"m9",
-			"name":"مد و پوشاک"
-		},
-		{
-			"id":"m10",
-			"name":"کتاب، لوازم تحریر"
-		},
-		{
-			"id":"m11",
-			"name":"رستوران ها"
-		}
+			{
+				"id":"m1",
+				"name":"ورزش و سفر"
+			},
+			{
+				"id":"m2",
+				"name":"خانه و آشپزخانه"
+			},
+			{
+				"id":"m3",
+				"name":"سوپر مارکت"
+			},
+			{
+				"id":"m4",
+				"name":"آلات موسیقی"
+			},
+			{
+				"id":"m5",
+				"name":"اسباب بازی، کودک"
+			},
+			{
+				"id":"m6",
+				"name":"کالای دیجیتال"
+			},
+			{
+				"id":"m7",
+				"name":"صنایع دستی"
+			},
+			{
+				"id":"m8",
+				"name":"آرایشی، بهداشتی"
+			},
+			{
+				"id":"m9",
+				"name":"مد و پوشاک"
+			},
+			{
+				"id":"m10",
+				"name":"کتاب، لوازم تحریر"
+			},
+			{
+				"id":"m11",
+				"name":"رستوران ها"
+			}
 	
-	]
+	]]
 }

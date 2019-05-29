@@ -47,5 +47,63 @@
 			"image": "http://fdgdhgfh.com",
 			"previous_price": 290000
 		}
+	],
+	"cat_main_menu" : [
+		{
+			"id":1,
+			"name":"ورزش و سفر",
+			"link_cat_value":"http://fdgdhgfh.com"
+		},
+		{
+			"id":2,
+			"name":"خانه و آشپزخانه",
+			"link_cat_value":"http://fdgdhgfh.com"
+		},
+		{
+			"id":3,
+			"name":"سوپر مارکت",
+			"link_cat_value":"http://fdgdhgfh.com"
+		},
+		{
+			"id":4,
+			"name":"آلات موسیقی",
+			"link_cat_value":"http://fdgdhgfh.com"
+		},
+		{
+			"id":5,
+			"name":"اسباب بازی، کودک",
+			"link_cat_value":"http://fdgdhgfh.com"
+		},
+		{
+			"id":6,
+			"name":"کالای دیجیتال",
+			"link_cat_value":"http://fdgdhgfh.com"
+		},
+		{
+			"id":7,
+			"name":"صنایع دستی",
+			"link_cat_value":"http://fdgdhgfh.com"
+		},
+		{
+			"id":8,
+			"name":"آرایشی، بهداشتی",
+			"link_cat_value":"http://fdgdhgfh.com"
+		},
+		{
+			"id":9,
+			"name":"مد و پوشاک",
+			"link_cat_value":"http://fdgdhgfh.com"
+		},
+		{
+			"id":10,
+			"name":"کتاب، لوازم تحریر",
+			"link_cat_value":"http://fdgdhgfh.com"
+		},
+		{
+			"id":11,
+			"name":"رستوران ها",
+			"link_cat_value":"http://fdgdhgfh.com"
+		},
+		
 	]
 }
